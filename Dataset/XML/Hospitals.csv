@@ -1,0 +1,1001 @@
+hospital_id,hospital_name,city,state,hospital_type
+HOSP0001,Hospital_1,Ujjain,MP,Government
+HOSP0002,Hospital_2,Jabalpur,  MP  ,Private
+HOSP0003,Hospital_3,Jabalpur,MP,Private
+HOSP0004,Hospital_4,Ujjain,MP,Government
+HOSP0005,Hospital_5,Jabalpur,  MP  ,Government
+HOSP0006,Hospital_6,Bhopal,MP,Government
+HOSP0007,Hospital_7,Jabalpur,MP,Private
+HOSP0008,Hospital_8,Bhopal,  MP  ,Government
+HOSP0009,Hospital_9,Ujjain,MP,  Government  
+HOSP0010,Hospital_10,Jabalpur,MP,Government
+HOSP0011,Hospital_11,Jabalpur,MP,Government
+HOSP0012,Hospital_12,Bhopal,MP,Private
+HOSP0013,Hospital_13,Bhopal,MP,Government
+HOSP0014,Hospital_14,Gwalior,MP,Private
+HOSP0015,Hospital_15,Indore,MP,Private
+HOSP0016,Hospital_16,Jabalpur,MP,Government
+HOSP0017,Hospital_17,Indore,MP,Government
+HOSP0018,Hospital_18,Indore,MP,Private
+HOSP0019,Hospital_19,Jabalpur,MP,Government
+HOSP0020,Hospital_20,Bhopal,MP,Private
+HOSP0021,Hospital_21,Gwalior,MP,Government
+HOSP0022,Hospital_22,Ujjain,  MP  ,Private
+HOSP0023,Hospital_23,Jabalpur,MP,Private
+HOSP0024,Hospital_24,Jabalpur,MP,Private
+HOSP0025,Hospital_25,Ujjain,MP,Government
+HOSP0026,Hospital_26,Indore,MP,Private
+HOSP0027,Hospital_27,Gwalior,MP,Private
+HOSP0028,Hospital_28,Indore,MP,Government
+HOSP0029,Hospital_29,Ujjain,MP,Government
+HOSP0030,Hospital_30,Ujjain,MP,Private
+HOSP0031,Hospital_31,Gwalior,MP,Private
+HOSP0032,Hospital_32,Ujjain,MP,  Government  
+HOSP0033,Hospital_33,Ujjain,MP,Private
+HOSP0034,Hospital_34,Gwalior,MP,Government
+HOSP0035,Hospital_35,Jabalpur,MP,Government
+HOSP0036,Hospital_36,Indore,MP,Government
+HOSP0037,Hospital_37,Jabalpur,MP,Private
+HOSP0038,Hospital_38,Jabalpur,MP,Government
+HOSP0039,Hospital_39,Indore,MP,  Private  
+HOSP0040,Hospital_40,Jabalpur,MP,Private
+HOSP0041,Hospital_41,Gwalior,MP,Government
+HOSP0042,Hospital_42,Indore,MP,Government
+HOSP0043,Hospital_43,Bhopal,  MP  ,Government
+HOSP0044,Hospital_44,Jabalpur,MP,Government
+HOSP0045,Hospital_45,Ujjain,  MP  ,Private
+HOSP0046,Hospital_46,Indore,MP,Private
+HOSP0047,Hospital_47,Bhopal,MP,Government
+HOSP0048,Hospital_48,Ujjain,MP,Private
+HOSP0049,Hospital_49,Bhopal,MP,Government
+HOSP0050,Hospital_50,Jabalpur,  MP  ,Private
+HOSP0051,Hospital_51,Ujjain,MP,Private
+HOSP0052,Hospital_52,Jabalpur,MP,Private
+HOSP0053,Hospital_53,Ujjain,MP,Government
+HOSP0054,Hospital_54,Indore,MP,Private
+HOSP0055,Hospital_55,Gwalior,MP,Private
+HOSP0056,Hospital_56,Gwalior,MP,  Private  
+HOSP0057,Hospital_57,Bhopal,MP,Private
+HOSP0058,Hospital_58,Ujjain,MP,Government
+HOSP0059,Hospital_59,Jabalpur,MP,Private
+HOSP0060,Hospital_60,Indore,MP,Government
+HOSP0061,Hospital_61,Indore,MP,Government
+HOSP0062,Hospital_62,Indore,MP,Private
+HOSP0063,Hospital_63,Gwalior,MP,Private
+HOSP0064,Hospital_64,Jabalpur,MP,  Government  
+HOSP0065,Hospital_65,Indore,MP,Government
+HOSP0066,Hospital_66,Indore,MP,Government
+HOSP0067,Hospital_67,Bhopal,MP,Private
+HOSP0068,Hospital_68,Ujjain,MP,  Private  
+HOSP0069,Hospital_69,Ujjain,MP,Government
+HOSP0070,Hospital_70,Ujjain,MP,Government
+HOSP0071,Hospital_71,Bhopal,MP,Government
+HOSP0072,Hospital_72,Gwalior,MP,Private
+HOSP0073,Hospital_73,Bhopal,  MP  ,Private
+HOSP0074,Hospital_74,Indore,  MP  ,Government
+HOSP0075,Hospital_75,Jabalpur,MP,Private
+HOSP0076,Hospital_76,Indore,MP,Government
+HOSP0077,Hospital_77,Indore,MP,Private
+HOSP0078,Hospital_78,Jabalpur,MP,Government
+HOSP0079,Hospital_79,Ujjain,MP,  Private  
+HOSP0080,Hospital_80,Bhopal,MP,Private
+HOSP0081,Hospital_81,Gwalior,MP,Private
+HOSP0082,Hospital_82,Indore,MP,Private
+HOSP0083,Hospital_83,Indore,  MP  ,Private
+HOSP0084,Hospital_84,Gwalior,MP,Private
+HOSP0085,Hospital_85,Bhopal,MP,Private
+HOSP0086,Hospital_86,Indore,MP,Government
+HOSP0087,Hospital_87,Gwalior,MP,Government
+HOSP0088,Hospital_88,Indore,MP,Government
+HOSP0089,Hospital_89,Ujjain,  MP  ,  Private  
+HOSP0090,Hospital_90,Ujjain,MP,Private
+HOSP0091,Hospital_91,Indore,MP,Private
+HOSP0092,Hospital_92,Indore,MP,Government
+HOSP0093,Hospital_93,Ujjain,MP,Government
+HOSP0094,Hospital_94,Indore,MP,Government
+HOSP0095,Hospital_95,Bhopal,MP,Government
+HOSP0096,Hospital_96,Bhopal,MP,Government
+HOSP0097,Hospital_97,Jabalpur,MP,Government
+HOSP0098,Hospital_98,Bhopal,MP,Private
+HOSP0099,Hospital_99,Indore,  MP  ,Government
+HOSP0100,Hospital_100,Indore,MP,Private
+HOSP0101,Hospital_101,Gwalior,MP,Government
+HOSP0102,Hospital_102,Bhopal,MP,Government
+HOSP0103,Hospital_103,Ujjain,MP,Private
+HOSP0104,Hospital_104,Ujjain,MP,Private
+HOSP0105,Hospital_105,Jabalpur,MP,Private
+HOSP0106,Hospital_106,Gwalior,MP,Government
+HOSP0107,Hospital_107,Ujjain,MP,Government
+HOSP0108,Hospital_108,Jabalpur,MP,  Private  
+HOSP0109,Hospital_109,Bhopal,MP,Government
+HOSP0110,Hospital_110,Gwalior,MP,Private
+HOSP0111,Hospital_111,Gwalior,MP,Government
+HOSP0112,Hospital_112,Indore,MP,Government
+HOSP0113,Hospital_113,Bhopal,MP,Government
+HOSP0114,Hospital_114,Gwalior,MP,  Private  
+HOSP0115,Hospital_115,Jabalpur,MP,Government
+HOSP0116,Hospital_116,Ujjain,MP,Private
+HOSP0117,Hospital_117,Bhopal,MP,Private
+HOSP0118,Hospital_118,Bhopal,MP,Private
+HOSP0119,Hospital_119,Gwalior,MP,Private
+HOSP0120,Hospital_120,Gwalior,MP,  Private  
+HOSP0121,Hospital_121,Gwalior,MP,  Private  
+HOSP0122,Hospital_122,Jabalpur,MP,Private
+HOSP0123,Hospital_123,Indore,MP,Private
+HOSP0124,Hospital_124,Gwalior,MP,  Private  
+HOSP0125,Hospital_125,Indore,MP,Government
+HOSP0126,Hospital_126,Indore,MP,  Private  
+HOSP0127,Hospital_127,Bhopal,MP,Government
+HOSP0128,Hospital_128,Ujjain,MP,Private
+HOSP0129,Hospital_129,Ujjain,MP,Government
+HOSP0130,Hospital_130,Jabalpur,MP,  Government  
+HOSP0131,Hospital_131,Jabalpur,  MP  ,Government
+HOSP0132,Hospital_132,Ujjain,  MP  ,Government
+HOSP0133,Hospital_133,Ujjain,  MP  ,Government
+HOSP0134,Hospital_134,Bhopal,MP,Government
+HOSP0135,Hospital_135,Bhopal,MP,Private
+HOSP0136,Hospital_136,Ujjain,MP,Private
+HOSP0137,Hospital_137,Gwalior,MP,Private
+HOSP0138,Hospital_138,Gwalior,MP,Private
+HOSP0139,Hospital_139,Bhopal,  MP  ,Private
+HOSP0140,Hospital_140,Indore,MP,Private
+HOSP0141,Hospital_141,Ujjain,MP,Government
+HOSP0142,Hospital_142,Jabalpur,  MP  ,Private
+HOSP0143,Hospital_143,Gwalior,MP,Government
+HOSP0144,Hospital_144,Indore,MP,Government
+HOSP0145,Hospital_145,Gwalior,MP,Government
+HOSP0146,Hospital_146,Indore,MP,  Government  
+HOSP0147,Hospital_147,Ujjain,MP,Government
+HOSP0148,Hospital_148,Ujjain,MP,Government
+HOSP0149,Hospital_149,Ujjain,MP,Private
+HOSP0150,Hospital_150,Bhopal,MP,Government
+HOSP0151,Hospital_151,Indore,MP,Government
+HOSP0152,Hospital_152,Jabalpur,MP,Private
+HOSP0153,Hospital_153,Jabalpur,MP,  Private  
+HOSP0154,Hospital_154,Ujjain,MP,  Private  
+HOSP0155,Hospital_155,Jabalpur,  MP  ,Private
+HOSP0156,Hospital_156,Gwalior,MP,  Private  
+HOSP0157,Hospital_157,Indore,MP,Private
+HOSP0158,Hospital_158,Indore,  MP  ,Private
+HOSP0159,Hospital_159,Indore,MP,Government
+HOSP0160,Hospital_160,Gwalior,MP,Private
+HOSP0161,Hospital_161,Bhopal,MP,Government
+HOSP0162,Hospital_162,Gwalior,MP,Private
+HOSP0163,Hospital_163,Indore,MP,Private
+HOSP0164,Hospital_164,Indore,MP,Government
+HOSP0165,Hospital_165,Indore,MP,Private
+HOSP0166,Hospital_166,Jabalpur,MP,Private
+HOSP0167,Hospital_167,Bhopal,MP,Private
+HOSP0168,Hospital_168,Gwalior,MP,Private
+HOSP0169,Hospital_169,Indore,MP,Private
+HOSP0170,Hospital_170,Ujjain,MP,Private
+HOSP0171,Hospital_171,Bhopal,MP,  Private  
+HOSP0172,Hospital_172,Ujjain,MP,  Government  
+HOSP0173,Hospital_173,Bhopal,MP,  Private  
+HOSP0174,Hospital_174,Indore,MP,Government
+HOSP0175,Hospital_175,Bhopal,MP,Government
+HOSP0176,Hospital_176,Bhopal,MP,Government
+HOSP0177,Hospital_177,Indore,MP,Government
+HOSP0178,Hospital_178,Ujjain,MP,Government
+HOSP0179,Hospital_179,Ujjain,MP,Government
+HOSP0180,Hospital_180,Jabalpur,MP,  Government  
+HOSP0181,Hospital_181,Ujjain,MP,Private
+HOSP0182,Hospital_182,Ujjain,MP,Private
+HOSP0183,Hospital_183,Bhopal,MP,Private
+HOSP0184,Hospital_184,Jabalpur,MP,Government
+HOSP0185,Hospital_185,Indore,MP,Private
+HOSP0186,Hospital_186,Indore,MP,Government
+HOSP0187,Hospital_187,Gwalior,MP,Government
+HOSP0188,Hospital_188,Jabalpur,MP,Private
+HOSP0189,Hospital_189,Bhopal,MP,Government
+HOSP0190,Hospital_190,Gwalior,MP,Government
+HOSP0191,Hospital_191,Gwalior,  MP  ,Private
+HOSP0192,Hospital_192,Indore,MP,Government
+HOSP0193,Hospital_193,Ujjain,MP,Private
+HOSP0194,Hospital_194,Bhopal,MP,Government
+HOSP0195,Hospital_195,Jabalpur,  MP  ,Government
+HOSP0196,Hospital_196,Gwalior,MP,Private
+HOSP0197,Hospital_197,Bhopal,MP,Private
+HOSP0198,Hospital_198,Indore,MP,Private
+HOSP0199,Hospital_199,Gwalior,  MP  ,Government
+HOSP0200,Hospital_200,Gwalior,MP,Government
+HOSP0201,Hospital_201,Indore,  MP  ,Private
+HOSP0202,Hospital_202,Indore,MP,Private
+HOSP0203,Hospital_203,Indore,MP,Private
+HOSP0204,Hospital_204,Bhopal,MP,  Government  
+HOSP0205,Hospital_205,Bhopal,  MP  ,Government
+HOSP0206,Hospital_206,Bhopal,MP,Private
+HOSP0207,Hospital_207,Ujjain,MP,  Private  
+HOSP0208,Hospital_208,Gwalior,MP,Private
+HOSP0209,Hospital_209,Bhopal,MP,Government
+HOSP0210,Hospital_210,Ujjain,MP,Private
+HOSP0211,Hospital_211,Gwalior,MP,Private
+HOSP0212,Hospital_212,Bhopal,MP,Private
+HOSP0213,Hospital_213,Indore,MP,Government
+HOSP0214,Hospital_214,Jabalpur,MP,Government
+HOSP0215,Hospital_215,Bhopal,MP,Private
+HOSP0216,Hospital_216,Jabalpur,MP,Government
+HOSP0217,Hospital_217,Bhopal,MP,Private
+HOSP0218,Hospital_218,Indore,MP,Private
+HOSP0219,Hospital_219,Jabalpur,MP,Private
+HOSP0220,Hospital_220,Ujjain,MP,Private
+HOSP0221,Hospital_221,Indore,  MP  ,Government
+HOSP0222,Hospital_222,Jabalpur,MP,  Private  
+HOSP0223,Hospital_223,Jabalpur,MP,  Private  
+HOSP0224,Hospital_224,Indore,MP,Government
+HOSP0225,Hospital_225,Indore,  MP  ,Private
+HOSP0226,Hospital_226,Indore,MP,Government
+HOSP0227,Hospital_227,Gwalior,MP,Private
+HOSP0228,Hospital_228,Ujjain,MP,Private
+HOSP0229,Hospital_229,Bhopal,MP,Private
+HOSP0230,Hospital_230,Jabalpur,MP,  Private  
+HOSP0231,Hospital_231,Bhopal,MP,Government
+HOSP0232,Hospital_232,Indore,MP,Private
+HOSP0233,Hospital_233,Ujjain,MP,Government
+HOSP0234,Hospital_234,Ujjain,  MP  ,Government
+HOSP0235,Hospital_235,Gwalior,  MP  ,Government
+HOSP0236,Hospital_236,Indore,MP,Private
+HOSP0237,Hospital_237,Jabalpur,MP,Government
+HOSP0238,Hospital_238,Gwalior,MP,Government
+HOSP0239,Hospital_239,Indore,MP,Government
+HOSP0240,Hospital_240,Gwalior,MP,Private
+HOSP0241,Hospital_241,Bhopal,MP,Private
+HOSP0242,Hospital_242,Indore,  MP  ,Government
+HOSP0243,Hospital_243,Jabalpur,MP,Government
+HOSP0244,Hospital_244,Jabalpur,MP,Private
+HOSP0245,Hospital_245,Indore,MP,Government
+HOSP0246,Hospital_246,Gwalior,MP,Government
+HOSP0247,Hospital_247,Ujjain,MP,Government
+HOSP0248,Hospital_248,Indore,MP,Private
+HOSP0249,Hospital_249,Jabalpur,MP,Government
+HOSP0250,Hospital_250,Bhopal,MP,Government
+HOSP0251,Hospital_251,Jabalpur,MP,Private
+HOSP0252,Hospital_252,Ujjain,MP,Government
+HOSP0253,Hospital_253,Jabalpur,MP,Private
+HOSP0254,Hospital_254,Ujjain,MP,Private
+HOSP0255,Hospital_255,Indore,MP,Private
+HOSP0256,Hospital_256,Jabalpur,MP,Government
+HOSP0257,Hospital_257,Gwalior,MP,Government
+HOSP0258,Hospital_258,Gwalior,  MP  ,  Government  
+HOSP0259,Hospital_259,Jabalpur,MP,Government
+HOSP0260,Hospital_260,Jabalpur,MP,Government
+HOSP0261,Hospital_261,Bhopal,MP,Government
+HOSP0262,Hospital_262,Jabalpur,MP,Government
+HOSP0263,Hospital_263,Bhopal,MP,Government
+HOSP0264,Hospital_264,Bhopal,MP,Private
+HOSP0265,Hospital_265,Bhopal,MP,Government
+HOSP0266,Hospital_266,Bhopal,  MP  ,  Government  
+HOSP0267,Hospital_267,Indore,MP,  Private  
+HOSP0268,Hospital_268,Gwalior,MP,Government
+HOSP0269,Hospital_269,Bhopal,MP,  Private  
+HOSP0270,Hospital_270,Gwalior,MP,Government
+HOSP0271,Hospital_271,Bhopal,MP,Government
+HOSP0272,Hospital_272,Gwalior,MP,Private
+HOSP0273,Hospital_273,Jabalpur,MP,Private
+HOSP0274,Hospital_274,Jabalpur,MP,Government
+HOSP0275,Hospital_275,Gwalior,MP,Private
+HOSP0276,Hospital_276,Bhopal,MP,Government
+HOSP0277,Hospital_277,Indore,MP,Government
+HOSP0278,Hospital_278,Gwalior,MP,Government
+HOSP0279,Hospital_279,Ujjain,MP,Government
+HOSP0280,Hospital_280,Indore,MP,Government
+HOSP0281,Hospital_281,Ujjain,MP,Government
+HOSP0282,Hospital_282,Gwalior,MP,Private
+HOSP0283,Hospital_283,Bhopal,MP,Private
+HOSP0284,Hospital_284,Ujjain,MP,Private
+HOSP0285,Hospital_285,Gwalior,MP,  Government  
+HOSP0286,Hospital_286,Indore,MP,Private
+HOSP0287,Hospital_287,Bhopal,MP,  Government  
+HOSP0288,Hospital_288,Ujjain,MP,Private
+HOSP0289,Hospital_289,Gwalior,  MP  ,Government
+HOSP0290,Hospital_290,Bhopal,MP,Government
+HOSP0291,Hospital_291,Bhopal,MP,Government
+HOSP0292,Hospital_292,Jabalpur,MP,Government
+HOSP0293,Hospital_293,Bhopal,MP,Government
+HOSP0294,Hospital_294,Gwalior,MP,Private
+HOSP0295,Hospital_295,Indore,MP,  Government  
+HOSP0296,Hospital_296,Jabalpur,MP,Private
+HOSP0297,Hospital_297,Gwalior,MP,Government
+HOSP0298,Hospital_298,Gwalior,MP,Government
+HOSP0299,Hospital_299,Gwalior,MP,Government
+HOSP0300,Hospital_300,Ujjain,MP,Private
+HOSP0301,Hospital_301,Ujjain,MP,Government
+HOSP0302,Hospital_302,Indore,  MP  ,  Private  
+HOSP0303,Hospital_303,Gwalior,MP,Government
+HOSP0304,Hospital_304,Ujjain,MP,  Private  
+HOSP0305,Hospital_305,Ujjain,MP,Private
+HOSP0306,Hospital_306,Ujjain,MP,Private
+HOSP0307,Hospital_307,Indore,  MP  ,Government
+HOSP0308,Hospital_308,Indore,MP,Government
+HOSP0309,Hospital_309,Gwalior,MP,Private
+HOSP0310,Hospital_310,Jabalpur,MP,Government
+HOSP0311,Hospital_311,Gwalior,MP,Government
+HOSP0312,Hospital_312,Ujjain,MP,Government
+HOSP0313,Hospital_313,Ujjain,  MP  ,Private
+HOSP0314,Hospital_314,Bhopal,MP,Private
+HOSP0315,Hospital_315,Gwalior,MP,Government
+HOSP0316,Hospital_316,Ujjain,MP,Private
+HOSP0317,Hospital_317,Ujjain,MP,Government
+HOSP0318,Hospital_318,Jabalpur,MP,  Government  
+HOSP0319,Hospital_319,Bhopal,MP,Private
+HOSP0320,Hospital_320,Gwalior,MP,  Private  
+HOSP0321,Hospital_321,Indore,MP,Government
+HOSP0322,Hospital_322,Gwalior,MP,Government
+HOSP0323,Hospital_323,Gwalior,MP,Government
+HOSP0324,Hospital_324,Jabalpur,MP,Private
+HOSP0325,Hospital_325,Gwalior,  MP  ,  Private  
+HOSP0326,Hospital_326,Jabalpur,MP,Government
+HOSP0327,Hospital_327,Jabalpur,MP,Government
+HOSP0328,Hospital_328,Ujjain,MP,Private
+HOSP0329,Hospital_329,Indore,MP,Government
+HOSP0330,Hospital_330,Jabalpur,MP,Private
+HOSP0331,Hospital_331,Bhopal,  MP  ,Private
+HOSP0332,Hospital_332,Bhopal,MP,Government
+HOSP0333,Hospital_333,Indore,  MP  ,Government
+HOSP0334,Hospital_334,Jabalpur,MP,  Private  
+HOSP0335,Hospital_335,Indore,MP,Government
+HOSP0336,Hospital_336,Ujjain,  MP  ,Private
+HOSP0337,Hospital_337,Bhopal,MP,Private
+HOSP0338,Hospital_338,Gwalior,MP,Private
+HOSP0339,Hospital_339,Bhopal,MP,Government
+HOSP0340,Hospital_340,Jabalpur,MP,  Government  
+HOSP0341,Hospital_341,Indore,MP,Government
+HOSP0342,Hospital_342,Bhopal,MP,Private
+HOSP0343,Hospital_343,Gwalior,MP,Private
+HOSP0344,Hospital_344,Gwalior,  MP  ,Private
+HOSP0345,Hospital_345,Indore,  MP  ,  Private  
+HOSP0346,Hospital_346,Indore,MP,Government
+HOSP0347,Hospital_347,Bhopal,MP,Government
+HOSP0348,Hospital_348,Jabalpur,MP,Government
+HOSP0349,Hospital_349,Ujjain,MP,Private
+HOSP0350,Hospital_350,Gwalior,MP,Private
+HOSP0351,Hospital_351,Indore,MP,Government
+HOSP0352,Hospital_352,Ujjain,MP,Private
+HOSP0353,Hospital_353,Ujjain,MP,Government
+HOSP0354,Hospital_354,Ujjain,MP,Private
+HOSP0355,Hospital_355,Jabalpur,MP,  Private  
+HOSP0356,Hospital_356,Indore,MP,Private
+HOSP0357,Hospital_357,Gwalior,MP,Private
+HOSP0358,Hospital_358,Indore,MP,Private
+HOSP0359,Hospital_359,Bhopal,MP,Government
+HOSP0360,Hospital_360,Gwalior,MP,Government
+HOSP0361,Hospital_361,Indore,MP,Government
+HOSP0362,Hospital_362,Gwalior,MP,Private
+HOSP0363,Hospital_363,Bhopal,MP,  Government  
+HOSP0364,Hospital_364,Gwalior,MP,  Government  
+HOSP0365,Hospital_365,Ujjain,MP,Private
+HOSP0366,Hospital_366,Jabalpur,MP,Private
+HOSP0367,Hospital_367,Bhopal,MP,Government
+HOSP0368,Hospital_368,Gwalior,  MP  ,Government
+HOSP0369,Hospital_369,Bhopal,MP,Government
+HOSP0370,Hospital_370,Ujjain,MP,Government
+HOSP0371,Hospital_371,Jabalpur,MP,Government
+HOSP0372,Hospital_372,Bhopal,MP,Private
+HOSP0373,Hospital_373,Ujjain,MP,Government
+HOSP0374,Hospital_374,Ujjain,MP,Government
+HOSP0375,Hospital_375,Ujjain,MP,Government
+HOSP0376,Hospital_376,Gwalior,MP,Government
+HOSP0377,Hospital_377,Indore,MP,Government
+HOSP0378,Hospital_378,Bhopal,MP,Government
+HOSP0379,Hospital_379,Indore,MP,Private
+HOSP0380,Hospital_380,Ujjain,MP,Private
+HOSP0381,Hospital_381,Indore,MP,Private
+HOSP0382,Hospital_382,Ujjain,MP,Government
+HOSP0383,Hospital_383,Ujjain,MP,Government
+HOSP0384,Hospital_384,Jabalpur,MP,Private
+HOSP0385,Hospital_385,Jabalpur,MP,  Government  
+HOSP0386,Hospital_386,Indore,MP,Government
+HOSP0387,Hospital_387,Bhopal,MP,Government
+HOSP0388,Hospital_388,Indore,MP,Private
+HOSP0389,Hospital_389,Bhopal,MP,Private
+HOSP0390,Hospital_390,Indore,MP,Private
+HOSP0391,Hospital_391,Gwalior,MP,Government
+HOSP0392,Hospital_392,Gwalior,MP,Private
+HOSP0393,Hospital_393,Bhopal,  MP  ,Private
+HOSP0394,Hospital_394,Jabalpur,  MP  ,Private
+HOSP0395,Hospital_395,Bhopal,MP,Government
+HOSP0396,Hospital_396,Indore,MP,Private
+HOSP0397,Hospital_397,Ujjain,MP,Private
+HOSP0398,Hospital_398,Gwalior,MP,Government
+HOSP0399,Hospital_399,Ujjain,  MP  ,Private
+HOSP0400,Hospital_400,Gwalior,  MP  ,Government
+HOSP0401,Hospital_401,Indore,MP,Government
+HOSP0402,Hospital_402,Gwalior,MP,Private
+HOSP0403,Hospital_403,Bhopal,MP,Private
+HOSP0404,Hospital_404,Ujjain,MP,Private
+HOSP0405,Hospital_405,Ujjain,MP,Government
+HOSP0406,Hospital_406,Indore,MP,Private
+HOSP0407,Hospital_407,Ujjain,  MP  ,Private
+HOSP0408,Hospital_408,Indore,MP,Private
+HOSP0409,Hospital_409,Jabalpur,  MP  ,Government
+HOSP0410,Hospital_410,Bhopal,MP,Government
+HOSP0411,Hospital_411,Gwalior,MP,Government
+HOSP0412,Hospital_412,Gwalior,MP,Private
+HOSP0413,Hospital_413,Gwalior,MP,Private
+HOSP0414,Hospital_414,Jabalpur,MP,Government
+HOSP0415,Hospital_415,Bhopal,MP,Private
+HOSP0416,Hospital_416,Ujjain,MP,Private
+HOSP0417,Hospital_417,Ujjain,  MP  ,Government
+HOSP0418,Hospital_418,Bhopal,MP,  Government  
+HOSP0419,Hospital_419,Bhopal,MP,Government
+HOSP0420,Hospital_420,Gwalior,MP,Private
+HOSP0421,Hospital_421,Ujjain,MP,Private
+HOSP0422,Hospital_422,Bhopal,MP,Private
+HOSP0423,Hospital_423,Ujjain,MP,Government
+HOSP0424,Hospital_424,Bhopal,MP,Government
+HOSP0425,Hospital_425,Indore,MP,Private
+HOSP0426,Hospital_426,Gwalior,MP,Government
+HOSP0427,Hospital_427,Bhopal,MP,Government
+HOSP0428,Hospital_428,Jabalpur,MP,Private
+HOSP0429,Hospital_429,Bhopal,MP,Government
+HOSP0430,Hospital_430,Indore,MP,Private
+HOSP0431,Hospital_431,Jabalpur,MP,Government
+HOSP0432,Hospital_432,Jabalpur,MP,Private
+HOSP0433,Hospital_433,Bhopal,MP,Government
+HOSP0434,Hospital_434,Indore,MP,Private
+HOSP0435,Hospital_435,Jabalpur,MP,Government
+HOSP0436,Hospital_436,Gwalior,MP,Government
+HOSP0437,Hospital_437,Gwalior,MP,Government
+HOSP0438,Hospital_438,Ujjain,MP,Government
+HOSP0439,Hospital_439,Ujjain,MP,Government
+HOSP0440,Hospital_440,Indore,MP,Private
+HOSP0441,Hospital_441,Jabalpur,MP,  Private  
+HOSP0442,Hospital_442,Gwalior,MP,Private
+HOSP0443,Hospital_443,Gwalior,MP,Government
+HOSP0444,Hospital_444,Indore,MP,Private
+HOSP0445,Hospital_445,Jabalpur,MP,Government
+HOSP0446,Hospital_446,Indore,MP,Government
+HOSP0447,Hospital_447,Bhopal,MP,Private
+HOSP0448,Hospital_448,Gwalior,MP,Private
+HOSP0449,Hospital_449,Indore,MP,Government
+HOSP0450,Hospital_450,Indore,MP,Government
+HOSP0451,Hospital_451,Bhopal,MP,Private
+HOSP0452,Hospital_452,Ujjain,MP,Private
+HOSP0453,Hospital_453,Gwalior,MP,Government
+HOSP0454,Hospital_454,Indore,MP,  Government  
+HOSP0455,Hospital_455,Gwalior,MP,Private
+HOSP0456,Hospital_456,Ujjain,MP,Government
+HOSP0457,Hospital_457,Indore,MP,Government
+HOSP0458,Hospital_458,Bhopal,MP,Private
+HOSP0459,Hospital_459,Gwalior,MP,Private
+HOSP0460,Hospital_460,Bhopal,  MP  ,  Government  
+HOSP0461,Hospital_461,Ujjain,  MP  ,Government
+HOSP0462,Hospital_462,Ujjain,MP,Private
+HOSP0463,Hospital_463,Gwalior,MP,Government
+HOSP0464,Hospital_464,Ujjain,MP,Private
+HOSP0465,Hospital_465,Jabalpur,MP,Government
+HOSP0466,Hospital_466,Gwalior,MP,Private
+HOSP0467,Hospital_467,Jabalpur,MP,Government
+HOSP0468,Hospital_468,Ujjain,MP,  Government  
+HOSP0469,Hospital_469,Gwalior,MP,Government
+HOSP0470,Hospital_470,Jabalpur,MP,Private
+HOSP0471,Hospital_471,Ujjain,MP,Private
+HOSP0472,Hospital_472,Indore,MP,Private
+HOSP0473,Hospital_473,Indore,MP,  Government  
+HOSP0474,Hospital_474,Bhopal,MP,Government
+HOSP0475,Hospital_475,Indore,MP,Private
+HOSP0476,Hospital_476,Jabalpur,MP,Private
+HOSP0477,Hospital_477,Indore,MP,Government
+HOSP0478,Hospital_478,Gwalior,  MP  ,Government
+HOSP0479,Hospital_479,Gwalior,MP,Government
+HOSP0480,Hospital_480,Gwalior,MP,Government
+HOSP0481,Hospital_481,Indore,MP,Private
+HOSP0482,Hospital_482,Indore,MP,Private
+HOSP0483,Hospital_483,Bhopal,  MP  ,Government
+HOSP0484,Hospital_484,Ujjain,MP,Government
+HOSP0485,Hospital_485,Bhopal,MP,Government
+HOSP0486,Hospital_486,Jabalpur,MP,Private
+HOSP0487,Hospital_487,Gwalior,MP,Private
+HOSP0488,Hospital_488,Indore,MP,Government
+HOSP0489,Hospital_489,Ujjain,MP,Government
+HOSP0490,Hospital_490,Ujjain,MP,Government
+HOSP0491,Hospital_491,Indore,MP,  Government  
+HOSP0492,Hospital_492,Bhopal,MP,Government
+HOSP0493,Hospital_493,Ujjain,MP,Government
+HOSP0494,Hospital_494,Bhopal,MP,Private
+HOSP0495,Hospital_495,Indore,MP,Private
+HOSP0496,Hospital_496,Bhopal,MP,Private
+HOSP0497,Hospital_497,Gwalior,MP,Government
+HOSP0498,Hospital_498,Indore,MP,Government
+HOSP0499,Hospital_499,Indore,MP,Government
+HOSP0500,Hospital_500,Ujjain,MP,Private
+HOSP0501,Hospital_501,Ujjain,MP,Government
+HOSP0502,Hospital_502,Ujjain,MP,Private
+HOSP0503,Hospital_503,Gwalior,MP,Government
+HOSP0504,Hospital_504,Gwalior,MP,Government
+HOSP0505,Hospital_505,Jabalpur,MP,Government
+HOSP0506,Hospital_506,Indore,MP,Private
+HOSP0507,Hospital_507,Ujjain,MP,Private
+HOSP0508,Hospital_508,Indore,MP,Private
+HOSP0509,Hospital_509,Bhopal,MP,Government
+HOSP0510,Hospital_510,Gwalior,MP,Private
+HOSP0511,Hospital_511,Jabalpur,MP,Government
+HOSP0512,Hospital_512,Bhopal,MP,Government
+HOSP0513,Hospital_513,Indore,MP,Private
+HOSP0514,Hospital_514,Gwalior,MP,Private
+HOSP0515,Hospital_515,Ujjain,MP,Government
+HOSP0516,Hospital_516,Bhopal,MP,Government
+HOSP0517,Hospital_517,Gwalior,MP,Government
+HOSP0518,Hospital_518,Indore,MP,Government
+HOSP0519,Hospital_519,Indore,MP,Private
+HOSP0520,Hospital_520,Bhopal,  MP  ,Private
+HOSP0521,Hospital_521,Bhopal,MP,  Private  
+HOSP0522,Hospital_522,Bhopal,MP,Government
+HOSP0523,Hospital_523,Jabalpur,MP,Government
+HOSP0524,Hospital_524,Ujjain,MP,Government
+HOSP0525,Hospital_525,Gwalior,MP,  Private  
+HOSP0526,Hospital_526,Indore,MP,Government
+HOSP0527,Hospital_527,Indore,MP,Government
+HOSP0528,Hospital_528,Ujjain,MP,Private
+HOSP0529,Hospital_529,Bhopal,MP,Private
+HOSP0530,Hospital_530,Bhopal,MP,Government
+HOSP0531,Hospital_531,Indore,MP,Private
+HOSP0532,Hospital_532,Ujjain,MP,Government
+HOSP0533,Hospital_533,Indore,MP,Private
+HOSP0534,Hospital_534,Bhopal,MP,Government
+HOSP0535,Hospital_535,Gwalior,MP,Private
+HOSP0536,Hospital_536,Bhopal,MP,Private
+HOSP0537,Hospital_537,Gwalior,MP,Private
+HOSP0538,Hospital_538,Jabalpur,MP,Private
+HOSP0539,Hospital_539,Ujjain,  MP  ,Government
+HOSP0540,Hospital_540,Jabalpur,MP,Government
+HOSP0541,Hospital_541,Bhopal,MP,Private
+HOSP0542,Hospital_542,Ujjain,MP,Government
+HOSP0543,Hospital_543,Bhopal,MP,Private
+HOSP0544,Hospital_544,Ujjain,  MP  ,Private
+HOSP0545,Hospital_545,Ujjain,  MP  ,Government
+HOSP0546,Hospital_546,Bhopal,  MP  ,Government
+HOSP0547,Hospital_547,Bhopal,MP,  Government  
+HOSP0548,Hospital_548,Ujjain,MP,Government
+HOSP0549,Hospital_549,Ujjain,MP,Government
+HOSP0550,Hospital_550,Bhopal,MP,Government
+HOSP0551,Hospital_551,Bhopal,MP,Government
+HOSP0552,Hospital_552,Indore,MP,Private
+HOSP0553,Hospital_553,Indore,MP,Government
+HOSP0554,Hospital_554,Indore,MP,Private
+HOSP0555,Hospital_555,Jabalpur,MP,Government
+HOSP0556,Hospital_556,Ujjain,MP,Government
+HOSP0557,Hospital_557,Gwalior,MP,Private
+HOSP0558,Hospital_558,Jabalpur,MP,  Private  
+HOSP0559,Hospital_559,Ujjain,MP,Private
+HOSP0560,Hospital_560,Gwalior,MP,Private
+HOSP0561,Hospital_561,Indore,MP,Government
+HOSP0562,Hospital_562,Gwalior,MP,Government
+HOSP0563,Hospital_563,Bhopal,  MP  ,Private
+HOSP0564,Hospital_564,Bhopal,MP,Private
+HOSP0565,Hospital_565,Ujjain,MP,Government
+HOSP0566,Hospital_566,Jabalpur,MP,Government
+HOSP0567,Hospital_567,Indore,MP,Private
+HOSP0568,Hospital_568,Ujjain,MP,Government
+HOSP0569,Hospital_569,Indore,MP,Government
+HOSP0570,Hospital_570,Bhopal,  MP  ,Private
+HOSP0571,Hospital_571,Jabalpur,MP,Private
+HOSP0572,Hospital_572,Jabalpur,MP,Private
+HOSP0573,Hospital_573,Bhopal,MP,Private
+HOSP0574,Hospital_574,Gwalior,MP,Government
+HOSP0575,Hospital_575,Jabalpur,  MP  ,Private
+HOSP0576,Hospital_576,Gwalior,MP,Government
+HOSP0577,Hospital_577,Indore,MP,Government
+HOSP0578,Hospital_578,Jabalpur,MP,Government
+HOSP0579,Hospital_579,Bhopal,  MP  ,Government
+HOSP0580,Hospital_580,Gwalior,MP,Private
+HOSP0581,Hospital_581,Indore,MP,Government
+HOSP0582,Hospital_582,Indore,MP,Private
+HOSP0583,Hospital_583,Jabalpur,MP,Government
+HOSP0584,Hospital_584,Jabalpur,MP,Private
+HOSP0585,Hospital_585,Ujjain,MP,Government
+HOSP0586,Hospital_586,Ujjain,MP,  Government  
+HOSP0587,Hospital_587,Jabalpur,MP,Private
+HOSP0588,Hospital_588,Ujjain,MP,Private
+HOSP0589,Hospital_589,Bhopal,MP,Private
+HOSP0590,Hospital_590,Bhopal,MP,Private
+HOSP0591,Hospital_591,Ujjain,MP,Government
+HOSP0592,Hospital_592,Jabalpur,MP,  Government  
+HOSP0593,Hospital_593,Bhopal,MP,Government
+HOSP0594,Hospital_594,Indore,MP,  Government  
+HOSP0595,Hospital_595,Jabalpur,MP,  Government  
+HOSP0596,Hospital_596,Gwalior,MP,Private
+HOSP0597,Hospital_597,Gwalior,MP,Private
+HOSP0598,Hospital_598,Jabalpur,MP,Government
+HOSP0599,Hospital_599,Ujjain,MP,  Private  
+HOSP0600,Hospital_600,Bhopal,MP,Government
+HOSP0601,Hospital_601,Bhopal,MP,Government
+HOSP0602,Hospital_602,Jabalpur,MP,Private
+HOSP0603,Hospital_603,Indore,MP,Government
+HOSP0604,Hospital_604,Ujjain,MP,Private
+HOSP0605,Hospital_605,Indore,  MP  ,Government
+HOSP0606,Hospital_606,Jabalpur,MP,Private
+HOSP0607,Hospital_607,Jabalpur,MP,Government
+HOSP0608,Hospital_608,Indore,  MP  ,Government
+HOSP0609,Hospital_609,Gwalior,MP,Private
+HOSP0610,Hospital_610,Jabalpur,MP,Government
+HOSP0611,Hospital_611,Ujjain,MP,Government
+HOSP0612,Hospital_612,Indore,MP,Private
+HOSP0613,Hospital_613,Gwalior,  MP  ,Private
+HOSP0614,Hospital_614,Indore,MP,Private
+HOSP0615,Hospital_615,Gwalior,MP,Government
+HOSP0616,Hospital_616,Gwalior,MP,Private
+HOSP0617,Hospital_617,Ujjain,MP,Private
+HOSP0618,Hospital_618,Jabalpur,MP,Private
+HOSP0619,Hospital_619,Gwalior,MP,Government
+HOSP0620,Hospital_620,Jabalpur,  MP  ,Private
+HOSP0621,Hospital_621,Ujjain,MP,Government
+HOSP0622,Hospital_622,Jabalpur,MP,  Government  
+HOSP0623,Hospital_623,Bhopal,MP,Private
+HOSP0624,Hospital_624,Gwalior,MP,Government
+HOSP0625,Hospital_625,Ujjain,MP,Government
+HOSP0626,Hospital_626,Indore,MP,Government
+HOSP0627,Hospital_627,Ujjain,MP,Government
+HOSP0628,Hospital_628,Gwalior,MP,Government
+HOSP0629,Hospital_629,Ujjain,  MP  ,Private
+HOSP0630,Hospital_630,Indore,MP,Private
+HOSP0631,Hospital_631,Bhopal,MP,Private
+HOSP0632,Hospital_632,Gwalior,MP,Government
+HOSP0633,Hospital_633,Gwalior,  MP  ,Private
+HOSP0634,Hospital_634,Ujjain,MP,Government
+HOSP0635,Hospital_635,Jabalpur,MP,Government
+HOSP0636,Hospital_636,Jabalpur,MP,Government
+HOSP0637,Hospital_637,Indore,MP,Government
+HOSP0638,Hospital_638,Bhopal,MP,Private
+HOSP0639,Hospital_639,Bhopal,MP,Government
+HOSP0640,Hospital_640,Ujjain,MP,Private
+HOSP0641,Hospital_641,Ujjain,MP,  Private  
+HOSP0642,Hospital_642,Jabalpur,MP,Government
+HOSP0643,Hospital_643,Bhopal,MP,Private
+HOSP0644,Hospital_644,Bhopal,MP,Private
+HOSP0645,Hospital_645,Bhopal,MP,  Private  
+HOSP0646,Hospital_646,Indore,MP,Government
+HOSP0647,Hospital_647,Indore,MP,Government
+HOSP0648,Hospital_648,Ujjain,MP,Government
+HOSP0649,Hospital_649,Jabalpur,MP,Private
+HOSP0650,Hospital_650,Gwalior,MP,Private
+HOSP0651,Hospital_651,Jabalpur,MP,Government
+HOSP0652,Hospital_652,Indore,MP,Government
+HOSP0653,Hospital_653,Indore,MP,Private
+HOSP0654,Hospital_654,Ujjain,MP,Government
+HOSP0655,Hospital_655,Gwalior,MP,Government
+HOSP0656,Hospital_656,Bhopal,MP,  Private  
+HOSP0657,Hospital_657,Gwalior,MP,Private
+HOSP0658,Hospital_658,Gwalior,MP,Government
+HOSP0659,Hospital_659,Gwalior,MP,Government
+HOSP0660,Hospital_660,Ujjain,MP,Government
+HOSP0661,Hospital_661,Indore,MP,Government
+HOSP0662,Hospital_662,Bhopal,MP,Private
+HOSP0663,Hospital_663,Gwalior,MP,Government
+HOSP0664,Hospital_664,Bhopal,MP,Government
+HOSP0665,Hospital_665,Gwalior,MP,Private
+HOSP0666,Hospital_666,Indore,MP,  Private  
+HOSP0667,Hospital_667,Bhopal,MP,Private
+HOSP0668,Hospital_668,Jabalpur,MP,Private
+HOSP0669,Hospital_669,Indore,MP,  Private  
+HOSP0670,Hospital_670,Bhopal,MP,  Private  
+HOSP0671,Hospital_671,Gwalior,MP,Private
+HOSP0672,Hospital_672,Gwalior,MP,Government
+HOSP0673,Hospital_673,Indore,MP,Government
+HOSP0674,Hospital_674,Indore,MP,Private
+HOSP0675,Hospital_675,Gwalior,MP,Government
+HOSP0676,Hospital_676,Bhopal,MP,Government
+HOSP0677,Hospital_677,Jabalpur,MP,  Private  
+HOSP0678,Hospital_678,Ujjain,MP,Private
+HOSP0679,Hospital_679,Indore,MP,Private
+HOSP0680,Hospital_680,Gwalior,MP,  Private  
+HOSP0681,Hospital_681,Bhopal,MP,Private
+HOSP0682,Hospital_682,Indore,MP,Government
+HOSP0683,Hospital_683,Bhopal,  MP  ,  Government  
+HOSP0684,Hospital_684,Indore,MP,Private
+HOSP0685,Hospital_685,Gwalior,MP,Private
+HOSP0686,Hospital_686,Bhopal,MP,Government
+HOSP0687,Hospital_687,Gwalior,MP,Government
+HOSP0688,Hospital_688,Bhopal,  MP  ,Government
+HOSP0689,Hospital_689,Indore,MP,Private
+HOSP0690,Hospital_690,Ujjain,MP,Private
+HOSP0691,Hospital_691,Ujjain,MP,Government
+HOSP0692,Hospital_692,Jabalpur,MP,Private
+HOSP0693,Hospital_693,Jabalpur,MP,Government
+HOSP0694,Hospital_694,Gwalior,MP,Private
+HOSP0695,Hospital_695,Bhopal,MP,Private
+HOSP0696,Hospital_696,Jabalpur,MP,Government
+HOSP0697,Hospital_697,Indore,MP,Government
+HOSP0698,Hospital_698,Ujjain,MP,Private
+HOSP0699,Hospital_699,Bhopal,MP,Government
+HOSP0700,Hospital_700,Ujjain,MP,Private
+HOSP0701,Hospital_701,Bhopal,MP,Government
+HOSP0702,Hospital_702,Jabalpur,MP,Government
+HOSP0703,Hospital_703,Jabalpur,MP,Private
+HOSP0704,Hospital_704,Gwalior,  MP  ,Private
+HOSP0705,Hospital_705,Bhopal,MP,Private
+HOSP0706,Hospital_706,Indore,MP,Government
+HOSP0707,Hospital_707,Jabalpur,MP,Government
+HOSP0708,Hospital_708,Gwalior,MP,Private
+HOSP0709,Hospital_709,Jabalpur,MP,  Government  
+HOSP0710,Hospital_710,Ujjain,MP,Private
+HOSP0711,Hospital_711,Jabalpur,MP,Private
+HOSP0712,Hospital_712,Bhopal,MP,Private
+HOSP0713,Hospital_713,Gwalior,  MP  ,Private
+HOSP0714,Hospital_714,Bhopal,MP,Private
+HOSP0715,Hospital_715,Indore,MP,Government
+HOSP0716,Hospital_716,Indore,MP,Government
+HOSP0717,Hospital_717,Jabalpur,MP,Private
+HOSP0718,Hospital_718,Gwalior,MP,  Government  
+HOSP0719,Hospital_719,Gwalior,MP,  Private  
+HOSP0720,Hospital_720,Gwalior,MP,Government
+HOSP0721,Hospital_721,Gwalior,MP,  Government  
+HOSP0722,Hospital_722,Jabalpur,MP,Private
+HOSP0723,Hospital_723,Bhopal,MP,Government
+HOSP0724,Hospital_724,Jabalpur,MP,Private
+HOSP0725,Hospital_725,Bhopal,MP,Government
+HOSP0726,Hospital_726,Ujjain,MP,Private
+HOSP0727,Hospital_727,Ujjain,MP,Private
+HOSP0728,Hospital_728,Bhopal,MP,Private
+HOSP0729,Hospital_729,Jabalpur,MP,Private
+HOSP0730,Hospital_730,Indore,MP,Private
+HOSP0731,Hospital_731,Jabalpur,MP,Private
+HOSP0732,Hospital_732,Indore,  MP  ,Government
+HOSP0733,Hospital_733,Jabalpur,MP,Private
+HOSP0734,Hospital_734,Gwalior,MP,Government
+HOSP0735,Hospital_735,Gwalior,MP,Private
+HOSP0736,Hospital_736,Ujjain,  MP  ,Government
+HOSP0737,Hospital_737,Ujjain,MP,Private
+HOSP0738,Hospital_738,Bhopal,MP,Private
+HOSP0739,Hospital_739,Indore,MP,Government
+HOSP0740,Hospital_740,Gwalior,MP,  Private  
+HOSP0741,Hospital_741,Jabalpur,MP,Private
+HOSP0742,Hospital_742,Bhopal,MP,Private
+HOSP0743,Hospital_743,Jabalpur,MP,Private
+HOSP0744,Hospital_744,Gwalior,MP,Government
+HOSP0745,Hospital_745,Gwalior,MP,Private
+HOSP0746,Hospital_746,Gwalior,  MP  ,  Government  
+HOSP0747,Hospital_747,Gwalior,MP,Private
+HOSP0748,Hospital_748,Jabalpur,MP,Private
+HOSP0749,Hospital_749,Bhopal,MP,Private
+HOSP0750,Hospital_750,Gwalior,MP,Private
+HOSP0751,Hospital_751,Ujjain,MP,Government
+HOSP0752,Hospital_752,Bhopal,MP,Private
+HOSP0753,Hospital_753,Ujjain,MP,Private
+HOSP0754,Hospital_754,Jabalpur,MP,Private
+HOSP0755,Hospital_755,Gwalior,MP,Government
+HOSP0756,Hospital_756,Bhopal,MP,Government
+HOSP0757,Hospital_757,Gwalior,MP,Government
+HOSP0758,Hospital_758,Gwalior,MP,Government
+HOSP0759,Hospital_759,Bhopal,MP,Private
+HOSP0760,Hospital_760,Gwalior,MP,Private
+HOSP0761,Hospital_761,Gwalior,MP,Government
+HOSP0762,Hospital_762,Indore,MP,Private
+HOSP0763,Hospital_763,Indore,  MP  ,  Private  
+HOSP0764,Hospital_764,Bhopal,MP,Government
+HOSP0765,Hospital_765,Bhopal,MP,Private
+HOSP0766,Hospital_766,Gwalior,MP,Government
+HOSP0767,Hospital_767,Ujjain,MP,Government
+HOSP0768,Hospital_768,Bhopal,MP,Government
+HOSP0769,Hospital_769,Gwalior,MP,Government
+HOSP0770,Hospital_770,Ujjain,MP,Government
+HOSP0771,Hospital_771,Indore,MP,Government
+HOSP0772,Hospital_772,Bhopal,  MP  ,Private
+HOSP0773,Hospital_773,Gwalior,  MP  ,Private
+HOSP0774,Hospital_774,Indore,MP,Private
+HOSP0775,Hospital_775,Jabalpur,  MP  ,Government
+HOSP0776,Hospital_776,Indore,MP,Government
+HOSP0777,Hospital_777,Gwalior,MP,Government
+HOSP0778,Hospital_778,Ujjain,MP,  Private  
+HOSP0779,Hospital_779,Jabalpur,MP,  Private  
+HOSP0780,Hospital_780,Jabalpur,MP,Government
+HOSP0781,Hospital_781,Jabalpur,MP,Government
+HOSP0782,Hospital_782,Bhopal,MP,Government
+HOSP0783,Hospital_783,Gwalior,MP,Government
+HOSP0784,Hospital_784,Jabalpur,MP,Government
+HOSP0785,Hospital_785,Indore,MP,Private
+HOSP0786,Hospital_786,Ujjain,MP,Government
+HOSP0787,Hospital_787,Gwalior,  MP  ,Government
+HOSP0788,Hospital_788,Indore,MP,Government
+HOSP0789,Hospital_789,Bhopal,MP,Government
+HOSP0790,Hospital_790,Jabalpur,  MP  ,Private
+HOSP0791,Hospital_791,Indore,MP,Government
+HOSP0792,Hospital_792,Gwalior,MP,Government
+HOSP0793,Hospital_793,Indore,  MP  ,Government
+HOSP0794,Hospital_794,Bhopal,MP,Private
+HOSP0795,Hospital_795,Ujjain,MP,Government
+HOSP0796,Hospital_796,Jabalpur,  MP  ,  Private  
+HOSP0797,Hospital_797,Gwalior,MP,Government
+HOSP0798,Hospital_798,Jabalpur,MP,Government
+HOSP0799,Hospital_799,Jabalpur,MP,Government
+HOSP0800,Hospital_800,Jabalpur,MP,Government
+HOSP0801,Hospital_801,Indore,MP,Government
+HOSP0802,Hospital_802,Indore,MP,Government
+HOSP0803,Hospital_803,Ujjain,MP,Government
+HOSP0804,Hospital_804,Bhopal,MP,Government
+HOSP0805,Hospital_805,Gwalior,MP,Government
+HOSP0806,Hospital_806,Indore,  MP  ,Private
+HOSP0807,Hospital_807,Jabalpur,MP,Private
+HOSP0808,Hospital_808,Bhopal,MP,Private
+HOSP0809,Hospital_809,Gwalior,  MP  ,Private
+HOSP0810,Hospital_810,Gwalior,  MP  ,  Government  
+HOSP0811,Hospital_811,Gwalior,MP,Government
+HOSP0812,Hospital_812,Gwalior,MP,Private
+HOSP0813,Hospital_813,Ujjain,MP,Private
+HOSP0814,Hospital_814,Gwalior,  MP  ,Private
+HOSP0815,Hospital_815,Bhopal,MP,  Private  
+HOSP0816,Hospital_816,Indore,MP,Government
+HOSP0817,Hospital_817,Bhopal,  MP  ,Private
+HOSP0818,Hospital_818,Jabalpur,MP,Government
+HOSP0819,Hospital_819,Ujjain,MP,  Government  
+HOSP0820,Hospital_820,Ujjain,MP,Government
+HOSP0821,Hospital_821,Jabalpur,MP,Private
+HOSP0822,Hospital_822,Bhopal,MP,Private
+HOSP0823,Hospital_823,Bhopal,MP,Government
+HOSP0824,Hospital_824,Jabalpur,MP,Private
+HOSP0825,Hospital_825,Gwalior,MP,Private
+HOSP0826,Hospital_826,Gwalior,MP,Government
+HOSP0827,Hospital_827,Indore,MP,Government
+HOSP0828,Hospital_828,Bhopal,MP,Private
+HOSP0829,Hospital_829,Bhopal,MP,  Government  
+HOSP0830,Hospital_830,Jabalpur,MP,Private
+HOSP0831,Hospital_831,Jabalpur,  MP  ,Private
+HOSP0832,Hospital_832,Gwalior,MP,Government
+HOSP0833,Hospital_833,Bhopal,MP,Government
+HOSP0834,Hospital_834,Bhopal,MP,Private
+HOSP0835,Hospital_835,Ujjain,MP,Government
+HOSP0836,Hospital_836,Indore,MP,Private
+HOSP0837,Hospital_837,Indore,  MP  ,Government
+HOSP0838,Hospital_838,Gwalior,MP,Private
+HOSP0839,Hospital_839,Bhopal,MP,  Government  
+HOSP0840,Hospital_840,Ujjain,MP,  Private  
+HOSP0841,Hospital_841,Bhopal,MP,Private
+HOSP0842,Hospital_842,Jabalpur,MP,Government
+HOSP0843,Hospital_843,Gwalior,MP,Private
+HOSP0844,Hospital_844,Indore,MP,  Private  
+HOSP0845,Hospital_845,Bhopal,MP,Private
+HOSP0846,Hospital_846,Gwalior,MP,Private
+HOSP0847,Hospital_847,Indore,MP,Private
+HOSP0848,Hospital_848,Bhopal,MP,Government
+HOSP0849,Hospital_849,Ujjain,MP,Private
+HOSP0850,Hospital_850,Gwalior,MP,  Private  
+HOSP0851,Hospital_851,Bhopal,MP,Private
+HOSP0852,Hospital_852,Indore,MP,Government
+HOSP0853,Hospital_853,Indore,MP,Government
+HOSP0854,Hospital_854,Ujjain,MP,Private
+HOSP0855,Hospital_855,Gwalior,MP,Private
+HOSP0856,Hospital_856,Gwalior,MP,Government
+HOSP0857,Hospital_857,Bhopal,MP,Government
+HOSP0858,Hospital_858,Indore,MP,  Private  
+HOSP0859,Hospital_859,Indore,MP,Government
+HOSP0860,Hospital_860,Ujjain,MP,Private
+HOSP0861,Hospital_861,Ujjain,MP,Private
+HOSP0862,Hospital_862,Gwalior,MP,Private
+HOSP0863,Hospital_863,Indore,MP,Government
+HOSP0864,Hospital_864,Bhopal,MP,Private
+HOSP0865,Hospital_865,Jabalpur,MP,Private
+HOSP0866,Hospital_866,Bhopal,MP,Government
+HOSP0867,Hospital_867,Ujjain,MP,Private
+HOSP0868,Hospital_868,Bhopal,MP,Private
+HOSP0869,Hospital_869,Indore,MP,Private
+HOSP0870,Hospital_870,Gwalior,MP,Government
+HOSP0871,Hospital_871,Jabalpur,MP,Government
+HOSP0872,Hospital_872,Gwalior,MP,Private
+HOSP0873,Hospital_873,Jabalpur,MP,Government
+HOSP0874,Hospital_874,Jabalpur,MP,  Private  
+HOSP0875,Hospital_875,Indore,MP,Private
+HOSP0876,Hospital_876,Indore,MP,  Government  
+HOSP0877,Hospital_877,Ujjain,MP,Government
+HOSP0878,Hospital_878,Ujjain,MP,Private
+HOSP0879,Hospital_879,Jabalpur,MP,Government
+HOSP0880,Hospital_880,Ujjain,MP,Government
+HOSP0881,Hospital_881,Indore,MP,Government
+HOSP0882,Hospital_882,Ujjain,MP,Private
+HOSP0883,Hospital_883,Jabalpur,MP,Private
+HOSP0884,Hospital_884,Gwalior,MP,Government
+HOSP0885,Hospital_885,Bhopal,MP,Private
+HOSP0886,Hospital_886,Ujjain,MP,Private
+HOSP0887,Hospital_887,Indore,MP,Government
+HOSP0888,Hospital_888,Gwalior,MP,Private
+HOSP0889,Hospital_889,Indore,MP,Government
+HOSP0890,Hospital_890,Ujjain,  MP  ,Private
+HOSP0891,Hospital_891,Jabalpur,MP,Private
+HOSP0892,Hospital_892,Bhopal,MP,  Government  
+HOSP0893,Hospital_893,Bhopal,MP,Private
+HOSP0894,Hospital_894,Gwalior,MP,Government
+HOSP0895,Hospital_895,Bhopal,MP,Private
+HOSP0896,Hospital_896,Jabalpur,MP,Private
+HOSP0897,Hospital_897,Indore,MP,Private
+HOSP0898,Hospital_898,Jabalpur,MP,Government
+HOSP0899,Hospital_899,Gwalior,MP,Private
+HOSP0900,Hospital_900,Gwalior,MP,Private
+HOSP0901,Hospital_901,Bhopal,MP,Government
+HOSP0902,Hospital_902,Jabalpur,MP,Government
+HOSP0903,Hospital_903,Indore,MP,Private
+HOSP0904,Hospital_904,Jabalpur,MP,Government
+HOSP0905,Hospital_905,Indore,MP,Government
+HOSP0906,Hospital_906,Indore,MP,Government
+HOSP0907,Hospital_907,Jabalpur,MP,Government
+HOSP0908,Hospital_908,Ujjain,MP,Private
+HOSP0909,Hospital_909,Jabalpur,MP,Government
+HOSP0910,Hospital_910,Indore,MP,  Private  
+HOSP0911,Hospital_911,Gwalior,MP,Private
+HOSP0912,Hospital_912,Gwalior,MP,Private
+HOSP0913,Hospital_913,Bhopal,MP,Government
+HOSP0914,Hospital_914,Gwalior,MP,Government
+HOSP0915,Hospital_915,Ujjain,MP,Private
+HOSP0916,Hospital_916,Indore,MP,Private
+HOSP0917,Hospital_917,Jabalpur,MP,Government
+HOSP0918,Hospital_918,Jabalpur,MP,Government
+HOSP0919,Hospital_919,Ujjain,MP,Private
+HOSP0920,Hospital_920,Gwalior,MP,Government
+HOSP0921,Hospital_921,Indore,MP,Government
+HOSP0922,Hospital_922,Gwalior,  MP  ,Private
+HOSP0923,Hospital_923,Bhopal,  MP  ,Government
+HOSP0924,Hospital_924,Gwalior,MP,Government
+HOSP0925,Hospital_925,Bhopal,  MP  ,  Private  
+HOSP0926,Hospital_926,Jabalpur,MP,Government
+HOSP0927,Hospital_927,Indore,MP,Private
+HOSP0928,Hospital_928,Bhopal,MP,Government
+HOSP0929,Hospital_929,Gwalior,  MP  ,Private
+HOSP0930,Hospital_930,Gwalior,MP,Government
+HOSP0931,Hospital_931,Jabalpur,MP,Private
+HOSP0932,Hospital_932,Ujjain,MP,Government
+HOSP0933,Hospital_933,Ujjain,MP,Government
+HOSP0934,Hospital_934,Gwalior,MP,Government
+HOSP0935,Hospital_935,Ujjain,MP,Private
+HOSP0936,Hospital_936,Indore,MP,Government
+HOSP0937,Hospital_937,Ujjain,MP,Private
+HOSP0938,Hospital_938,Indore,MP,Government
+HOSP0939,Hospital_939,Gwalior,MP,Government
+HOSP0940,Hospital_940,Gwalior,MP,Government
+HOSP0941,Hospital_941,Gwalior,MP,Government
+HOSP0942,Hospital_942,Jabalpur,MP,Government
+HOSP0943,Hospital_943,Ujjain,MP,Government
+HOSP0944,Hospital_944,Bhopal,  MP  ,Private
+HOSP0945,Hospital_945,Bhopal,MP,Private
+HOSP0946,Hospital_946,Gwalior,MP,Government
+HOSP0947,Hospital_947,Ujjain,MP,Government
+HOSP0948,Hospital_948,Indore,MP,Government
+HOSP0949,Hospital_949,Bhopal,MP,Government
+HOSP0950,Hospital_950,Gwalior,MP,Government
+HOSP0951,Hospital_951,Bhopal,MP,Private
+HOSP0952,Hospital_952,Bhopal,MP,Government
+HOSP0953,Hospital_953,Bhopal,MP,Government
+HOSP0954,Hospital_954,Gwalior,MP,Private
+HOSP0955,Hospital_955,Gwalior,MP,Private
+HOSP0956,Hospital_956,Jabalpur,MP,Private
+HOSP0957,Hospital_957,Jabalpur,MP,Government
+HOSP0958,Hospital_958,Jabalpur,MP,Government
+HOSP0959,Hospital_959,Bhopal,MP,Government
+HOSP0960,Hospital_960,Ujjain,  MP  ,Government
+HOSP0961,Hospital_961,Gwalior,MP,Government
+HOSP0962,Hospital_962,Jabalpur,MP,  Private  
+HOSP0963,Hospital_963,Ujjain,MP,Government
+HOSP0964,Hospital_964,Jabalpur,MP,Government
+HOSP0965,Hospital_965,Jabalpur,MP,Government
+HOSP0966,Hospital_966,Ujjain,MP,  Private  
+HOSP0967,Hospital_967,Jabalpur,MP,  Government  
+HOSP0968,Hospital_968,Bhopal,MP,Government
+HOSP0969,Hospital_969,Bhopal,MP,Government
+HOSP0970,Hospital_970,Bhopal,  MP  ,Government
+HOSP0971,Hospital_971,Indore,MP,Private
+HOSP0972,Hospital_972,Jabalpur,MP,Private
+HOSP0973,Hospital_973,Indore,MP,Private
+HOSP0974,Hospital_974,Gwalior,MP,Government
+HOSP0975,Hospital_975,Ujjain,MP,Private
+HOSP0976,Hospital_976,Gwalior,MP,Private
+HOSP0977,Hospital_977,Indore,MP,Government
+HOSP0978,Hospital_978,Bhopal,MP,Government
+HOSP0979,Hospital_979,Jabalpur,MP,Private
+HOSP0980,Hospital_980,Jabalpur,MP,Private
+HOSP0981,Hospital_981,Bhopal,MP,Private
+HOSP0982,Hospital_982,Jabalpur,MP,Private
+HOSP0983,Hospital_983,Ujjain,  MP  ,Government
+HOSP0984,Hospital_984,Ujjain,MP,Government
+HOSP0985,Hospital_985,Ujjain,MP,Private
+HOSP0986,Hospital_986,Gwalior,MP,Private
+HOSP0987,Hospital_987,Bhopal,  MP  ,Private
+HOSP0988,Hospital_988,Ujjain,MP,Government
+HOSP0989,Hospital_989,Indore,MP,Government
+HOSP0990,Hospital_990,Ujjain,MP,Government
+HOSP0991,Hospital_991,Gwalior,MP,Private
+HOSP0992,Hospital_992,Indore,MP,Government
+HOSP0993,Hospital_993,Bhopal,MP,Private
+HOSP0994,Hospital_994,Bhopal,MP,Private
+HOSP0995,Hospital_995,Ujjain,MP,Government
+HOSP0996,Hospital_996,Indore,MP,Private
+HOSP0997,Hospital_997,Indore,MP,Government
+HOSP0998,Hospital_998,Ujjain,MP,Government
+HOSP0999,Hospital_999,Ujjain,MP,Private
+HOSP1000,Hospital_1000,Jabalpur,MP,Private
